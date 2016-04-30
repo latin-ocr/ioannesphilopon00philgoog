@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ioannesphilopon00philgoog_0523.png"; bbox 0 0 2394 4208; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 389 39 865 181">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 389 39 865 181">
+     <span class='ocr_line' id='line_1_1' title="bbox 457 39 865 120; baseline -0.005 -33"><span class='ocrx_word' id='word_1_1' title='bbox 457 39 558 72; x_wconf 99' lang='grc' dir='ltr'><strong><em>ι</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 586 39 729 91; x_wconf 63' lang='grc' dir='ltr'><strong><em>ιυιιιιιιι</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 755 40 790 90; x_wconf 73' lang='lat' dir='ltr'><strong><em>ro</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 815 40 865 120; x_wconf 50' lang='lat' dir='ltr'><strong><em>m</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 389 77 646 181; baseline 0.074 -47"><span class='ocrx_word' id='word_1_5' title='bbox 389 77 449 140; x_wconf 75' lang='grc' dir='ltr'><strong><em>λου</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 477 85 576 181; x_wconf 56' lang='grc' dir='ltr'><strong><em>εἶναι,</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 636 111 646 165; x_wconf 81' lang='lat'><strong><em>’,</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1202 4208">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1202 4208">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1202 4208; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1202 4208; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
